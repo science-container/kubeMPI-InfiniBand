@@ -1,5 +1,5 @@
 # kubeMPI-InfiniBand:
-### Creating a kubernetes based containerized environemtns for runnign OpenMPI applications with InfiniBand hardware for RDMA communication
+### Creating a kubernetes based containerized environemtn for running OpenMPI applications with InfiniBand hardware for RDMA communication
 
 ## Software and Environments:
 ```
